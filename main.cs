@@ -161,10 +161,6 @@ public class Cliente : IImprimivel
         }
 
 
-
-        //========================================
-        //========================================
-        //========================================
         public bool Conferir_Estoque()
         {
                     
@@ -175,7 +171,7 @@ public class Cliente : IImprimivel
                 if(item.Value > search.Value)
                 {
                     Console.WriteLine("");
-                    Console.WriteLine($"O Estoque não possui \"{item.Key.Nome}\" suficientes para a compra - [\"{item.Value}\" Unidades no carrinho / \"{autoSearch2.Value}\" restantes no estoque] ]");
+                    Console.WriteLine("Erro: Sem estoque");
                     return false;
                 }
             
