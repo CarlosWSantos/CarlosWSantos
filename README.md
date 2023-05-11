@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CarlosWSantos
-- 👀 I’m interested in being a great programmer.
-- 🌱 I’m currently learning C#, JavaScript.
+- 👋 Hi, I’m @Willian
+- 👀 I’m interested in being a great programmer and make some games.
+- 🌱 I’m currently learning C#, JavaScript, HTML5, CSS, Python, MySql and C++.
 - 💞️ I’m looking to collaborate on games.
-- 📫 How to reach me discord: Genichiro Ashina#1165
-
-<!---
-CarlosWSantos/CarlosWSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me discord: Genichiro Ashina#1165 , Instagram: @slowillian_
