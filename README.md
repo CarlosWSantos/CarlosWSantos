@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Willian
 - 👀 I’m interested in being a great programmer and make some games.
 - 🌱 I’m currently learning C#, JavaScript, HTML5, CSS, Python, MySql and C++.
-- 💞️ I’m looking to collaborate on games.
 - 📫 How to reach me discord: Genichiro Ashina#1165 , Instagram: @slowillian_
