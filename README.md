@@ -1,6 +1,6 @@
-- Willian aqui! Faço alguns pequenos jogos no tempo livre (a maioria em JS) e pretendo ter uma carreira com computação no futuro.
-- Ex CP2 Caxias.
-- Atualmente estudando Ciências Matemáticas e da Terra na UFRJ.
-- Eletrônico no grupo de Pesquisas Aeroespaciais da Universidade Federal do Rio de Janeiro.
-- 🌱 Aprendendo e me aperfeiçoando em C#, C++, C, JavaScript, HTML5, CSS, Python e MySql.
-- 📫 Discord: genichiro_ashina69 , Instagram: @_divinehate, Steam: SK352, PSN: sucodefronhasuco ou cocalgelada.
+- Willian aqui! Faço alguns pequenos jogos no tempo livre (a maioria em JS) e pretendo ter uma carreira com computação no futuro
+- Técnico em Desenvolvimento de Sistemas pelo Colégio Pedro II
+- Atualmente estudando Ciências Matemáticas e da Terra na UFRJ
+- Eletrônico no grupo de Pesquisas Aeroespaciais da Universidade Federal do Rio de Janeiro
+- 🌱 Aprendendo e me aperfeiçoando em C#, C++, C, JavaScript, HTML5, CSS, Python e MySql
+- 📫 Discord: genichiro_ashina69 , Instagram: @_divinehate, Steam: SK352, PSN: sucodefronhasuco ou cocalgelada
